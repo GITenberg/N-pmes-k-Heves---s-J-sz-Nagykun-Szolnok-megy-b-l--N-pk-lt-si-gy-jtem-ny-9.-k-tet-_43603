@@ -1,0 +1,33 @@
+_repo: N-pmes-k-Heves---s-J-sz-Nagykun-Szolnok-megy-b-l--N-pk-lt-si-gy-jtem-ny-9.-k-tet-_43603
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berze Nagy, János
+    aliases:
+    - Nagy, János Berze
+    - Nagy, Janos Berze
+    birthdate: 1879
+    deathdate: 1946
+    gutenberg_agent_id: '42320'
+    url: http://www.gutenberg.org/2009/agents/42320
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Berze_Nagy_J%C3%A1nos
+    - https://de.wikipedia.org/wiki/J%C3%A1nos_Berze_Nagy
+description: ''
+gutenberg_issued: '2013-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43603'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Hungary'
+- !lcc 'GR'
+title: "Népmesék Heves- és Jász-Nagykun-Szolnok-megyéből\r\n(Magyar népköltési gyüjtemény\
+  \ 9. kötet)"
+url: http://www.gutenberg.org/ebooks/43603
